@@ -9,4 +9,4 @@ Banner+GridView+ViewPager+Recyclerview+GridView+GridView</br>
 3.实现购物车页面的编辑，实现全选，单选，计算价格总和，商品的添加和删除
 ![img](https://github.com/LegendaryGame/ShoppingMall/blob/master/gif/shopping02.gif)</br>
 
-！！！目前的商品app还未完善，不能使用支付功能，目前只实现了首页的界面和购物车的页面。
+！！！目前的商品app还未完善，不能使用支付功能，目前只单方面的实现了首页的界面和购物车的页面。
